@@ -1,4 +1,4 @@
-O papel do habito de estudo no desempenho do aluno de programação
+# O papel do habito de estudo no desempenho do aluno de programação
 
 `Aqui deve-se colocar uma linha com a referência completa do artigo, exemplo:`
 
