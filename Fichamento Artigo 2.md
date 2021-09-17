@@ -1,6 +1,4 @@
-`No início deve incluir, o título do Artigo sobre o qual o fichamento está sendo feito, exemplo:`
-
-# Volunteers' Engagement in Human Computation for Astronomy Projects
+O papel do habito de estudo no desempenho do aluno de programação
 
 `Aqui deve-se colocar uma linha com a referência completa do artigo, exemplo:`
 
