@@ -20,13 +20,10 @@ O artigo caracteriza dois projetos de ciência cidadã na área de astronomia, s
 *  Sessão de estudo é o tempo sem interrupções que o aluno usa para entender e exercitar o conteúdo estudado.(página 3).
 
 ## 3. Fichamento de Citações 
-
-`Aqui devem ser adicionadas as frases mais importantes que aparecem no artigo. Deve ser uma transcrição exata de como estão escritas no artigo, devem ficar entre aspas. Esse fichamento é importante para que possa identificar facilmente como o autor do artigo descreveu um conceito, teoria, método, resultado etc. Deve-se incluir de 3 a 6  itens. Exemplo:`
-
-
+* "Inicialmente, procuramos caracterizar experimentalmente as sessoes de estudo dos alunos da disciplina introdução a programação e com isso delinear os seus hábitos de estudo.Em seguida, correlacionamos as diferentes metricas obtidas com o desempenho do aluno na disciplina."
 * "Dentre as metricas avaliadas, há um forte indicativo de que o estudo diário representa uma forte influência no sucesso dos alunos."
-* _"Nossa avaliacão encontrou uma maior correlação entre o número de exercícios corretos e a nota final da disciplina."
-* _"Como resultados, identificamos que uma sessão típica de estudo dos alunos tem 20 minutos de duração. Ainda, a duração da sessão não apresenta correlação significativa com nota na disciplina,nem com a quantidade de sessões ao longo do semestre ou com o numero de exercícios"
+* "Nossa avaliacão encontrou uma maior correlação entre o número de exercícios corretos e a nota final da disciplina."
+* "Como resultados, identificamos que uma sessão típica de estudo dos alunos tem 20 minutos de duração. Ainda, a duração da sessão não apresenta correlação significativa com nota na disciplina,nem com a quantidade de sessões ao longo do semestre ou com o numero de exercícios"
 * _"There's a strong correlation between volunteers' requency and their devoted time to the project"_
 * _"There's also a moderate correlation between daily productivity and session duration for regular volunteers"_
 * _"In the Milky Way Project, the main change from normal days to busy days is that the proportion of traffic from the UK increases from 16 to 34 percent, and the proportion of users that came to the project through the BBC's website (bbc.co.uk) increases from 3 to 24 percent."_
