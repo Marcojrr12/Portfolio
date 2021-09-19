@@ -1,8 +1,7 @@
 # O papel do habito de estudo no desempenho do aluno de programação
 
-`Aqui deve-se colocar uma linha com a referência completa do artigo, exemplo:`
-
-Ponciano, Lesandro; Brasileiro,  Francisco; Simpson, Robert; Smith, Arfon. "Volunteers' Engagement in Human Computation for Astronomy Projects," in Computing in Science & Engineering, vol. 16, no. 6, pp. 52-59, Nov.-Dec. 2014. doi: [10.1109/MCSE.2014.4](https://doi.org/10.1109/MCSE.2014.4)
+Eliane Cristina de Araujo, Matheus Gaudencio, Andrey Menezes,Iury Ferreira, Iara Ribeiro, Alberto Fagner, Lesandro Ponciano,Fabio Morais, Dalton S. Guerrero, Jorge A. Figueiredo.
+(https://fubica.lsd.ufcg.edu.br/~lesandrop/papers/AraujoEtAl-2013-WEI-PapelDoH%C3%A1bitoDeEstudoNoDesempenhoDoAlunoDePrograma%C3%A7%C3%A3o.pdf)
 
 ## 1. Fichamento de Conteúdo
 
