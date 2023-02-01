@@ -66,8 +66,12 @@ body {
   line-height: 1.5;
   color: white;
   text-align: left;
-  background-image: url(https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=100%);
-  
+  background: -webkit-gradient(linear, left top, left bottom, to(#CCCCCC), from(#000000));
+            background: -moz-linear-gradient(top, #CCCCCC, #000000);
+            filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr='#CCCCCC', EndColorStr='#000000');      
+
+
+
   overflow: none;
 }
 
@@ -6078,8 +6082,12 @@ a.close.disabled {
 
 .bg-primary {
   background-color: #bd5d38 !important;
-  background-image: url(https://images.pexels.com/photos/2387793/pexels-photo-2387793.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
-background-position: top;
+  background: -webkit-linear-gradient(left, #bd5d38, #000000);
+  background: -moz-linear-gradient(left, #bd5d38, #000000);
+  background: -ms-linear-gradient(left, #bd5d38, #000000);
+  background: -o-linear-gradient(left, #bd5d38, #000000);
+  background: linear-gradient(to right, #bd5d38, #000000);
+  background-position: top;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -10052,8 +10060,8 @@ p.lead {
     padding: 0.5rem;
   }
   #sideNav .navbar-brand .img-profile {
-    max-width: 10rem;
-    max-height: 10rem;
+    max-width: 25rem;
+    max-height: 20rem;
     border: 0.5rem solid rgba(255, 255, 255, 0.2);
   }
   #sideNav .navbar-collapse {
