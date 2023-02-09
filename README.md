@@ -1,2 +1,10 @@
-# Portfolio
+# Nome:Marco Aurélio Pinto de Castro Júnior
+# Data de Nascimento:11/06/2001
+# Naturalidade: Belo Horizonte-MG
+
+Meu interesse em programação começou quando eu era desde  criança.De forma automática criei fascínio pela tecnlogia, queria saber como funcionava, como era criado os jogos,sites e redes sociais. Em 2020 eu coloquei o meu sonho em prática, comecei o curso de Sistemas de Informação na Puc Minas, e de cara vi que era o que eu queria para a minha vida quando tive as matérias de desenvolvimento de interfaces web e algoritmos e técnicas de programação. Outras disciplinas fizeram os meus olhos brilharem como banco de dados  e disciplina de desenvolvimento de aplicações móveis  onde tive contato com a tecnologia flutter usando o Dart criando aplicativos com SQLITE.
+O primeiro projeto em que atuei foi na faculdade onde eu e a minha equipe criamos um sistema web em php para eventos semelhante ao "Eventim", onde o usuário podia buscar por eventos na sua cidade,criar o seu próprio evento e divulgar um serviço relacionado como: aluguel de som,bartender,iluminação etc...
+ Atualmente buscando viver novas experiências, ter contato com profissionais de excelência no mercado de programação. Hoje em dia trabalho como programador Full-stack PHP .A empresa em que eu trabalho tem um sistema de WMS que faz todo o controle do armázem, endereçamento,cadastro de itens,impressão de etiquetas,separação e conferência de pedidos e vários outros módulos,então eu atuo dando manuntenção e criando módulos já que é um sistema 100% customizável para atender as demandas dos clientes.
+ Apesar do cargo de júnior neste último ano adquiri bastante experiência, como a atual empresa em que trabalho tem uma equipe de TI pequena, fiquei a frente do sistema tendo total autonomia, automatizando processos e melhorando o sistema trazendo diversas melhorias para a empresa. No ínicio do ano fiz meu primeiro go-live onde fui para Itajaí-SC para homologar a integração do sistema da empresa com o SAP para a Cantu Importadora que é uma das maiores importadoras de vinho do Brasil. Atualmente com 21 anos busco novas oportunidades para alcançar vôos maiores,  ser um profissional diferenciado e referência no mercado de programação.
+
  
